@@ -31,13 +31,13 @@ header a{
 
 /*Form Section*/
 form {
-    margin-top: 6vh;
+    margin-top: 4vh;
     padding: 0 0;
 }
 
 form .col {
     margin-top: 0;
-    margin-bottom: 24px;
+    margin-bottom: 12px;
     margin-left: 0;
     margin-right: 0;
     width: 24vw;
@@ -57,6 +57,14 @@ form .userterms {
     font-weight: bold;
     text-decoration: none;
     color: green; 
+}
+
+form svg {
+    visibility: hidden;
+}
+
+form small {
+    visibility: hidden;
 }
 
 form button {
