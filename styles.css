@@ -59,13 +59,13 @@ form .userterms {
     color: green; 
 }
 
-form svg {
+.error {
     visibility: hidden;
 }
 
-form small {
-    visibility: hidden;
-}
+.visible {
+    visibility: visible;
+}  
 
 form button {
     width: 24vw;
